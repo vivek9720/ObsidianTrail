@@ -1,4 +1,5 @@
 #include <string>
+#include "obsidiantrail/evidence/record.hpp"
 #include "obsidiantrail/network/network.hpp"
 #include <cstdint>
 #include <cstddef>

@@ -1,4 +1,5 @@
 #include <string>
+#include "obsidiantrail/evidence/record.hpp"
 #include "obsidiantrail/identity/identity.hpp"
 #include <cstdint>
 #include <cstddef>

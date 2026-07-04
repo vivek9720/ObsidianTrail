@@ -1,4 +1,5 @@
 #include <string>
+#include "obsidiantrail/evidence/record.hpp"
 #include "obsidiantrail/timeline/timeline.hpp"
 #include <cstdint>
 #include <cstddef>
