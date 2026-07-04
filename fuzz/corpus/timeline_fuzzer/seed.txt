@@ -1,0 +1,4 @@
+case=demo; created_by=seed
+entry=events.otl; type=log; digest=abc; size=12
+[records]
+kind=identity; time=100; source=vpn; subject=alice; action=login; src=198.51.100.2

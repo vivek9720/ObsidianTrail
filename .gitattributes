@@ -1,0 +1,11 @@
+/.gitattributes text eol=lf
+*.sh text eol=lf
+*.cc text eol=lf
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.otl text eol=lf
+*.ote text eol=lf
+*.otq text eol=lf
+*.md text eol=lf
